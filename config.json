@@ -1,0 +1,9 @@
+{
+	"ip":"cheap.ploudos.com",
+	"port": 16089,
+	"name": "afkbot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (amazing99) (amazing99)",
+	"login-cmd":"/login (amazing99)"
+}
